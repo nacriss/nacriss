@@ -9,17 +9,16 @@
 </p>
 
 <p align="center">
-  🎯 <b>Buscando uma oportunidade de estágio em tecnologia</b>
+  <b>Buscando uma oportunidade de estágio em tecnologia!</b>
 </p>
 
 ---
 
 ## 👩🏻‍💻 Sobre mim
 
-🎓 Estudante de Ciência da Computação na PUC Minas
-🔬 Bolsista de Iniciação Científica na área de Processamento de Imagens e Teoria dos Grafos
-💻 Interesse em Desenvolvimento de Software, Visão Computacional, Machine Learning e acima de tudo, resolver problemas e transformar ideias em soluções práticas.
-🚀 Sempre explorando novas tecnologias e buscando transformar conhecimentos em projetos
+Sou estudante de Ciência da Computação na PUC Minas e bolsista de Iniciação Científica, atuando com Processamento de Imagens e Teoria dos Grafos. Tenho interesse principalmente em Desenvolvimento de Software, Visão Computacional e Machine Learning, além de gostar de explorar diferentes tecnologias e desafios que me permitam transformar ideias em soluções práticas.
+
+Acredito que cada projeto é uma oportunidade de aprender algo novo, desenvolver minhas habilidades e entender como a tecnologia pode ser aplicada para resolver problemas reais.
 
 ---
 

@@ -28,13 +28,13 @@
 ### 🧠 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,sql" />
 </p>
 
 ### 🚀 Frameworks & Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,tensorflow" />
 </p>
 
 ### 🛠️ Ferramentas

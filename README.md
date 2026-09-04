@@ -1,11 +1,15 @@
 <h1 align="center">🖤 Ana Cristina | Computer Science Student</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Estudante+de+Ciência+da+Computação;Desenvolvimento+de+Software;Inteligência+Artificial;Visão+Computacional;Processamento+de+Imagens" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Development;Artificial+Intelligence;Computer+Vision;Image+Processing" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <i>Construindo, aprendendo e transformando ideias em código. 🩷</i>
+</p>
+
+<p align="center">
+  🎯 <b>Buscando uma oportunidade de estágio em tecnologia</b>
 </p>
 
 ---
@@ -16,7 +20,6 @@
 🔬 Bolsista de Iniciação Científica na área de Processamento de Imagens e Teoria dos Grafos
 💻 Interesse em Desenvolvimento de Software, Visão Computacional, Machine Learning e acima de tudo, resolver problemas e transformar ideias em soluções práticas.
 🚀 Sempre explorando novas tecnologias e buscando transformar conhecimentos em projetos
-🎯 Em busca de uma oportunidade de estágio na área de Tecnologia.
 
 ---
 
@@ -50,7 +53,7 @@ Aplicativo mobile desenvolvido com **Flutter e Dart**, criado para auxiliar estu
 
 **Tecnologias:** `Flutter` `Dart`
 
-🔗 [Ver repositório](#)
+🔗 [Ver repositório](https://github.com/nacriss/PucMap)
 
 ---
 
@@ -58,11 +61,11 @@ Aplicativo mobile desenvolvido com **Flutter e Dart**, criado para auxiliar estu
 
 Projeto desenvolvido com o objetivo de **automatizar o processo de recebimento de encomendas**, tornando as entregas mais práticas e inteligentes.
 
-A solução integra **software, microcontroladores e diferentes componentes eletrônicos**, utilizando tecnologias como **ESP32-CAM** e **ESP32 WROOM** para possibilitar funcionalidades de monitoramento e automação.
+A solução integra **software, microcontroladores e diferentes componentes eletrônicos**, utilizando tecnologias da família ESP para possibilitar funcionalidades de monitoramento e automação.
 
-**Tecnologias:** `ESP32-CAM` `ESP32 WROOM` `IoT` `Sistemas Embarcados`
+**Tecnologias:** `ESP32-CAM` `ESP32 WROOM 32` `IoT` `Sistemas Embarcados`
 
-🔗 [Ver repositório](#)
+🔗 [Ver repositório](https://github.com/nacriss/pandora)
 
 ---
 
@@ -76,19 +79,11 @@ Atualmente, exploro aplicações envolvendo **árvores geradoras, arborescência
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacriss&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacriss&layout=compact&theme=radical&hide_border=true&title_color=FF69B4" height="170"/>
-</p>
-
----
 
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/anacristinams/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
